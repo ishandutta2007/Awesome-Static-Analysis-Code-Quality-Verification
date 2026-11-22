@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification?style=for-the-badge&logo=github&color=38bdf8" alt="GitHub Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification?style=for-the-badge&logo=github&color=818cf8" alt="GitHub Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification?style=for-the-badge&logo=github&color=c084fc" alt="GitHub Issues"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://img.shields.io/badge/Awesome-List-FC60A8?style=for-the-badge&logo=awesome" alt="Awesome List"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-List-FC60A8?style=for-the-badge&logo=awesome" alt="Awesome List"></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-CC0_1.0-emerald?style=for-the-badge" alt="License: CC0 1.0"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -29,6 +32,8 @@ Static code analysis inspects source code and abstract syntax trees (AST) withou
 - [💻 Leading Open-Source Tools & Engines](#-leading-open-source-tools--engines)
 - [🏗️ Recommended Architecture: Self-Hosted CI Quality Gate](#️-recommended-architecture-self-hosted-ci-quality-gate)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & License](#️-disclaimer--license)
 
 ---
@@ -125,6 +130,27 @@ Contributions are warmly welcomed! Help us keep this static analysis guide accur
    - For open-source tools: provide the exact GitHub repository link and ensure proper star count badge formatting.
 4. 🚀 **Commit your changes**: `git commit -m "feat: add new static analyzer entry"`
 5. 📬 **Submit a Pull Request** with a concise description of the tool and why it adds value.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome Static Analysis & Code Quality Verification**! 🙏✨
+
+Maintaining and curating high-quality benchmarks, pricing structures, and ecosystem comparisons takes significant time and dedication. If you find this guide helpful for your engineering team, security pipeline, or open-source projects, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub!
+- 🍴 **Fork and contribute** new linters, SAST tools, and quality gates!
+- 📢 **Share with your peers** on Twitter/X, LinkedIn, Reddit, or Dev.to!
+- ☕ **Buy me a coffee / Sponsor on GitHub**: Support ongoing development and maintenance at the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this project open, independent, and continuously updated! 🚀
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Static-Analysis-Code-Quality-Verification&type=date&legend=top-left)
 
 ---
 
